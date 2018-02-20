@@ -20,7 +20,7 @@ fontsize: 12pt
 monofontoptions: "Scale=0.8"
 keep_md: yes
 site: bookdown::bookdown_site
-description: "Introducción a Probabilidad y Estadística Matemática en R con aplicaciones en Finanzas."
+description: ""
 url: 'http\://synergy.vision/Valoracion/'
 github-repo: synergyvision/Valoracion/
 cover-image: images/cover.png
